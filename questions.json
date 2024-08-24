@@ -1,0 +1,233 @@
+{
+  "heading": "Addition and Subtraction of Integers",
+  "topics": [
+    {
+      "heading": "Addition and Subtraction of Integers",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "During Lily's camping adventure, she cooked dinner for her friends using 21 potatoes. After roasting some over the fire, she noticed 9 potatoes had burned so she removed them. Then, she added 12 more potatoes to cook. How many potatoes did Lily have left to serve her hungry friends?",
+            "options": [
+                "21",
+                "12",
+                "0",
+                "24"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 2,
+            "question": "While hiking, Lily and her friends encounter a mysterious phenomenon where positive integers are represented by negative signs and negative integers are represented by positive signs. If Lily starts at position -1800 metres above sea level and then ascends 2500 metres, what is her final elevation in this peculiar scenario?",
+            "options": [
+                "-4300",
+                "4300",
+                "700",
+                "-700"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 3,
+            "question": "While exploring the campsite, Lily stumbled upon a stash of firewood. She counted 300 logs in total. However, her friends Alex and Sarah needed some firewood too, so she decided to share 98 logs with Alex and 105 logs with Sarah. How many logs of firewood did Lily have left for her campfire?",
+            "options": [
+                "97",
+                "503",
+                "203",
+                "87"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 4,
+            "question": "In the midst of a thunderstorm, Lily and her friends, seeking refuge, stumble upon a mysterious equation carved into a tree: <br>1300 - 1911 + (-2001).<br> Help them solve it accurately to navigate through the storm safely.",
+            "options": [
+                "-2612",
+                "2612",
+                "1390",
+                "-1390"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 5,
+            "question": "Lily started on the ground floor of her house (represented by 0 on the number line). She took the stairs up 7 floors and then went down 4 floors to find her bag to pack stuff for camping. What floor is she on now?",
+            "options": [
+                "7th floor",
+                "Ground floor",
+                "3rd floor",
+                "4th floor"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 6,
+            "question": "During the adventure they stumbled upon a hidden treasure chest, they opened it and found a collection of 3-digit numbers written on ancient scrolls. They decided to solve some math puzzles using these numbers.<br> (9911) + (-1357) + 1299 =?",
+            "options": [
+                "9853",
+                "-9853",
+                "9852",
+                "-9852"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 7,
+            "question": "In their journey, Alex, Sarah and Lily found themselves at a crossroads where a sign read: <br>Are (9661) + (-3121) and (-3121) + (9661) equal?",
+            "options": [
+                "Yes, they are equal",
+                "No, they are not equal",
+                "They might be equal",
+                "It cannot be determined"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 8,
+            "question": "At the campsite, Alex recorded a temperature that is the additive inverse of 983 degrees Celsius and Sarah recorded a temperature of -982 degrees Celsius. How much colder was the temperature that Sarah recorded?",
+            "options": [
+                "-1°C",
+                "65°C",
+                "1°C",
+                "-65°C"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 9,
+            "question": "During their camping expedition, Lily and her friends tracked their gains (represented by + integer) and losses( represented by - integers). They gained 135 units of firewood from the Forest Clearing, 115 units of fresh water from the Mountain Spring, and 140 units of food from the Hunting Grounds. However, they lost 120 units of firewood in the Stormy Night and 130 units of food in the Wildlife Encounter. Arrange these values in descending order. Which sequence is correct?",
+            "options": [
+                "-130, -120, +115, +135, +140",
+                "+140, +135, +115, -120, -130",
+                "-130, -120, +130, +115, +140",
+                "+140, +135, -120, +115, -130"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 10,
+            "question": "During their camping trip, Lily's group tracked their gains and losses. They gained 900 minutes of extra sleep due to the peaceful night, 202 minutes of daylight for an early start, and 108 minutes of leisure time for storytelling by the campfire. However, they lost 102 minutes to a sudden rainstorm and 50 minutes to a temporary detour. Arrange these time values in descending order. Which sequence is correct?",
+            "options": [
+                "+900, +202, +108, -50, -102",
+                "+202, +900, +108, -50, -102",
+                "-102, -50, +108, +202, +900",
+                "-102, -50, +202, +108, +900"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 11,
+            "question": "During her mountain adventure, Lily comes across a group of squirrels near the lake. Initially, she sees 31 squirrels playing around. As she approaches, 15 squirrels quickly dart into the bushes, leaving the remaining squirrels still visible. After a while, 21 more squirrels come out of the bushes to join the visible group. How many squirrels are now visible to Lily?",
+            "options": [
+                "-6",
+                "6",
+                "37",
+                "-37"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 12,
+            "question": "In the depths of their contemplation, they realized that the problem on the bridge represented a fundamental mathematical concept. It was a test of their understanding of properties that govern numbers and operations. After some reflection, Sarah exclaimed, “It's the property where the order of the numbers doesn't change the result of the addition.\"<br> Which property do Sarah and Alex believe is being illustrated by the equation on the bridge?",
+            "options": [
+                "Associative Property",
+                "Identity Property",
+                "Inverse Property",
+                "Commutative Property"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 13,
+            "question": "While camping, Lily and her friends decided to play a game they found in an old travel book. The game involved arranging logs around the campfire in different patterns to see how many different ways they could set up their seating. The book provided an example using the equation <br>((-818) + 810) + 404 = -818 + (810 + 404) to explain one of the rules of the game, but it didn't name the rule. According to you, which property does this equation demonstrate?",
+            "options": [
+                "Commutative Property",
+                "Associative Property",
+                "Additive Inverse",
+                "Identity Property"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 14,
+            "question": "The hidden chest has one more scroll with a puzzle inside it which asks to add (-4321) and (-4003) and then subtract it from the additive inverse of 9999.",
+            "options": [
+                "-1675",
+                "1675",
+                "-2663",
+                "2663"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 15,
+            "question": "Lily's water bottle holds 950 millilitres of water. If she drinks 304 millilitres during the hike and then refills it with 79 millilitres, and again drinks 212 millilitres, how much water does she have in her bottle now?",
+            "options": [
+                "725 millilitres",
+                "817 millilitres",
+                "646 millilitres",
+                "513 millilitres"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 16,
+            "question": "Lily and Alex are participating in a singing competition at their campsite. The competition rules are tricky as each minute of singing is represented by an integer.<br> If Lily sings campfire songs for 74 minutes (represented as +74) and then takes a break represented by a negative integer (-32), and Alex sings for an additional 55 minutes (represented as +55), but also takes a shorter break represented by another negative integer (-21), what is the total time they spend singing?",
+            "options": [
+                "72 minutes",
+                "34 minutes",
+                "66 minutes",
+                "76 minutes"
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 17,
+            "question": "After an adventurous camping trip, Lily and her friends decide to clean up their campsite before heading home. Sarah picks up 121 pieces, while Alex collects 137 pieces. Meanwhile, Lilly picks up 100 picks of trash. However, as they are cleaning, they accidentally drop 99 pieces of trash back onto the ground.<br>What is the total number of pieces of trash they have collected?",
+            "options": [
+                "457",
+                "259",
+                "358",
+                "None of the above"
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 18,
+            "question": "Lily is playing a game on a number line. She starts at position 650 and follows these steps:<ol><li>Moves 255 units to the right.</li><li>Moves 350 units to the left.</li><li>Moves 255 units to the right again.</li></ol>What is Lily's final position on the number line, and what is the additive inverse of that position?",
+            "options": [
+                "Final position: 810, Additive Inverse: –810",
+                "Final position: 555, Additive Inverse: -555",
+                "Final position: 905, Additive Inverse: -905",
+                "Final position: 650, Additive Inverse: -650"
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 19,
+            "question": "During their camping adventure, Lily and her friends received a mysterious map with the following instructions:<ol><li>Start at the ancient oak tree located at position 7881 on the treasure map.</li><li>Move 320 steps backward to the left, as indicated by the negative sign (-320).</li><li>Then, move 1701 steps forward to the right.</li></ol>Lily was trying to figure out where they would end up on the map but got stuck. She asked Sarah to help her. Can you, along with Sarah, help Lily find their final position on the treasure map?",
+            "options": [
+                "9249",
+                "9241",
+                "9262",
+                "7881"
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 20,
+            "question": "During their camping trip, Lily, Sarah, and Alex encounter a confusing signpost with the numbers 3951 and 1202. Alex suggests using the commutative property of addition to find their way back to camp. Which equation correctly demonstrates this property with the numbers 951 and 122?",
+            "options": [
+                "3951 + 1202 = 1202 + 3951",
+                "3951 + 1202 = 3951 - 1202",
+                "3951 + 1202 = 1202 - 3951",
+                "None of the above"
+            ],
+            "answer": 0
+        }
+    ]
+    
+    
+    
+    }
+  ]
+}
